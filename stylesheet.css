@@ -1,0 +1,64 @@
+body {
+  background-image: url("../bg.png");
+  background-size: 100%;
+}
+.info {
+  margin: auto;
+}
+
+#hero{
+  background-image: url('../veniceblur.jpg');
+  
+}
+
+#place {
+  color: rgb(145, 43, 43);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 75px;
+  text-align: center;
+  margin: auto;
+}
+#info2 {
+  text-align: center;
+  margin: auto;
+  color: white;
+}
+#venice {
+  color: white;
+}
+
+.row {
+  display: flex;
+  margin: auto;
+}
+
+.column {
+  flex: 33.33%;
+}
+
+#package {
+  color: rgb(145, 43, 43);
+  font-family: "Times New Roman", Times, serif;
+  font-size: 75px;
+  text-align: center;
+  margin-top: 160px;
+}
+#random{
+  margin-top:30px;
+}
+
+
+#cost{
+  color: aliceblue;
+}
+
+footer{
+  height: 400px;
+  width: 100%;
+  background-color: lightgreen;
+}
+#aboutus{
+  padding-left: 100px;
+  padding-top: 100px;
+  color:aliceblue;
+}
